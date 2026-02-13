@@ -1,0 +1,5 @@
+{
+  "name": "AquaSafe AI Monitor",
+  "description": "An intelligent aquatic health monitoring dashboard for lab researchers and farm managers, featuring real-time pH/Temp analytics, AI-driven anomaly detection, and predictive lethal limit forecasting.",
+  "requestFramePermissions": []
+}
